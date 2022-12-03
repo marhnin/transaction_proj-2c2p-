@@ -15,8 +15,10 @@ export class AppComponent implements OnInit {
  onChange(event:any)
  {
   const file = event.target.files[0];
-  console.log("File "+file.size);
-  console.log("File "+file.type);
+  if(file.size/1024/1024 > 1) //change to MB and check
+  {
+   
+  }
  }
   // OnClick of button Upload
   onUpload() 
