@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Creating project steps => Requirement environment
+## node version v14.17.6
+## angualr version 14.2.4
+## cmd => ng new transaction-proj
+## choose scss
+## go to code => code .
+## click watch scss in vs code
+## ng generate component component-name

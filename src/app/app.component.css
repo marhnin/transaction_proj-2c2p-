@@ -1,1 +1,5 @@
 /* No CSS *//*# sourceMappingURL=app.component.css.map */
+div#toast-container {
+    background: red !important;
+    color: white !important;
+}
